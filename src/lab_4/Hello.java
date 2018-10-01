@@ -7,7 +7,7 @@ public class Hello {
 	{
 		Hello hello = new Hello();
 		hello.methodA();
-		hello.methodb();
+		hello.methodB();
 		hello.methodC();
 	}
 
