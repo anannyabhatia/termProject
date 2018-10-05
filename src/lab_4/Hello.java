@@ -11,9 +11,11 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(void ) { }
+	public void methodA(void ) { 
+	System.out.println("first scenario");}
 
 	public void methodB(void) { }
 
-	public void methodC(void) { }
+	public void methodC(void) { 
+	System.out.println("User A's changes to method C");}
 }
